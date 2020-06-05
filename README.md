@@ -1,2 +1,2 @@
 # CodePlayer
-This CodePlayer is made by  using JQuery
+This CodePlayer is made by  using jQuery
